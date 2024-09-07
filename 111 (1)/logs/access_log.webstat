@@ -1,0 +1,6 @@
+84.54.72.137 - - [06/Sep/2024:09:35:33 +0500] "GET /tech/guruh_eye.php?GuruhID=1711464909 HTTP/1.1" 301 162 "http://crm-atko.uz/tech/index.php" "Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_10 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1"
+84.54.72.137 - - [06/Sep/2024:14:13:18 +0500] "GET / HTTP/1.1" 301 162 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_10 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1"
+51.222.253.15 - - [06/Sep/2024:15:33:45 +0500] "GET /robots.txt HTTP/1.1" 301 162 "-" "Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)"
+54.36.148.249 - - [06/Sep/2024:15:33:46 +0500] "GET / HTTP/1.1" 301 162 "-" "Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)"
+34.222.128.81 - - [06/Sep/2024:22:16:34 +0500] "GET / HTTP/1.1" 301 162 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36"
+141.8.142.39 - - [07/Sep/2024:00:04:57 +0500] "GET / HTTP/1.1" 301 162 "-" "Mozilla/5.0 (compatible; YandexUserproxy; robot; +http://yandex.com/bots)"
