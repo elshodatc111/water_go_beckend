@@ -101,6 +101,9 @@
         <a class="nav-link collapsed" href="{{ route('hisobot') }}"><i class="bi bi-file-earmark-medical"></i><span>Hisobot</span></a>
       </li>
       <li class="nav-item">
+        <a class="nav-link collapsed" href="{{ route('ActiveReports') }}"><i class="bi bi-file-earmark-medical"></i><span>Aktive Talabalar</span></a>
+      </li>
+      <li class="nav-item">
         <a class="nav-link collapsed" href="{{ route('sms') }}"><i class="bi bi-envelope-arrow-up-fill"></i><span>SMS</span></a>
       </li>
       <li class="nav-item">

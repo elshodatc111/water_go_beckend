@@ -31,6 +31,7 @@ use App\Http\Controllers\User\UserContactController;
 use App\Http\Controllers\User\PaymeController; 
 use App\Http\Controllers\User\OnlineCoursController; 
 use App\Http\Controllers\SettingController; 
+use App\Http\Controllers\SuperAdmin\ReportsController; 
 Route::get('/', [HomeController::class, 'index']);
 
 Auth::routes();
@@ -71,6 +72,11 @@ Route::controller(SMSController::class)->group(function () {
 
 Route::get('/Superadmin/index', [SuperAdminController::class, 'index'])->name('SuperAdmin');
 Route::get('/Superadmin/tulov/show/{data}', [SuperAdminController::class, 'tulovShow'])->name('tulovShowSuperAdmin');
+
+
+Route::get('/Superadmin/reports/active', [ReportsController::class, 'activeUser'])->name('ActiveReports');     /// Aktiv talabalar show
+Route::post('/Superadmin/reports/active/upload', [ReportsController::class, 'uploadActiveUser'])->name('uploadActiveUser');     /// Aktiv talabalar excelga yuklash
+
 
 Route::get('/Superadmin/hisobot/all/web/index', [ReportControlle::class, 'index'])->name('hisobot');
 Route::post('/Superadmin/hisobot/all/show', [ReportControlle::class, 'show'])->name('hisobotShow');
