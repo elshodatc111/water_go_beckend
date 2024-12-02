@@ -1,0 +1,8 @@
+5.255.231.98 - - [05/Oct/2024:07:51:29 +0500] "GET /robots.txt HTTP/1.0" 200 812 "-" "Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)"
+5.255.231.86 - - [05/Oct/2024:07:51:29 +0500] "GET / HTTP/1.0" 302 2054 "-" "Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0"
+87.250.224.243 - - [05/Oct/2024:07:51:32 +0500] "GET /login HTTP/1.0" 200 6787 "-" "Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0"
+213.180.203.44 - - [05/Oct/2024:09:59:05 +0500] "GET /robots.txt HTTP/1.0" 200 812 "-" "Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)"
+87.250.224.19 - - [05/Oct/2024:09:59:05 +0500] "GET / HTTP/1.0" 302 2054 "-" "Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0"
+95.108.213.130 - - [05/Oct/2024:09:59:06 +0500] "GET /login HTTP/1.0" 200 6787 "-" "Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0"
+54.170.70.133 - - [05/Oct/2024:10:07:32 +0500] "GET / HTTP/1.0" 302 2054 "-" "Plesk screenshot bot https://support.plesk.com/hc/en-us/articles/10301006946066"
+54.170.70.133 - - [05/Oct/2024:10:07:33 +0500] "GET /login HTTP/1.0" 200 6787 "-" "Plesk screenshot bot https://support.plesk.com/hc/en-us/articles/10301006946066"
